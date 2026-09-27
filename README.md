@@ -122,9 +122,9 @@ GitHub: Nenavath-Bhaskar-Nayak
 
 📧 Email: bhaskarnayak946@gmail.com
 
-💼 LinkedIn: Bhaskar Nayak
+💼 LinkedIn: 
 
-📸 Instagram: Bhaskar Nayak
+📸 Instagram: https://www.instagram.com/bhaskar_nayak0946/
 
 Feel free to connect with me for collaboration, projects, learning, or professional opportunities.
 
