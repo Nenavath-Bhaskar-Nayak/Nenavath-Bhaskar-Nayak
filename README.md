@@ -1,4 +1,4 @@
-Hi there 👋, I'm Bhaskar Nayak
+Hi there 👋, I'm Nenavath Bhaskar Nayak
 
 Machine Learning & Python Developer | FastAPI | AI Enthusiast
 
@@ -122,7 +122,7 @@ GitHub: Nenavath-Bhaskar-Nayak
 
 📧 Email: bhaskarnayak946@gmail.com
 
-💼 LinkedIn: 
+💼 LinkedIn: https://www.linkedin.com/in/bhaskar-nayak-082193287/
 
 📸 Instagram: https://www.instagram.com/bhaskar_nayak0946/
 
