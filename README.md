@@ -116,7 +116,7 @@ My goal is to continuously improve my skills in Artificial Intelligence, Machine
 
 You can explore my repositories and projects here:
 
-GitHub: Nenavath-Bhaskar-Nayak
+GitHub: https://github.com/Nenavath-Bhaskar-Nayak
 
 📫 Contact Me
 
