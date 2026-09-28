@@ -1,12 +1,14 @@
 <!-- Header -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=230&section=header&text=Nenavath%20Bhaskar%20Nayak&fontSize=42&fontColor=7dd3fc&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20%26%20Python%20Developer&descSize=18&descAlignY=55&descColor=e5e9f0" alt="Nenavath Bhaskar Nayak header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?
+    type=waving&color=0:0f172a,100:7dd3fc&height=230&section=header&text=Nenavath%20Bhaskar%20Nayak&fontSize=42&fontColor=7dd3fc&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20%26%20Python%20Developer&descSize=18&descAlignY=55&descColor=e5e9f0" alt="Nenavath Bhaskar Nayak header" />
 </p>
 
 <div align="center">
 
-  <img src="./assets/profile.png" width="190" alt="Nenavath Bhaskar Nayak" />
+ 
+  <img src="https://raw.githubusercontent.com/Nenavath-Bhaskar-Nayak/Nenavath-Bhaskar-Nayak/main/assets/profile.png" width="190" alt="Nenavath Bhaskar Nayak" />
 
 <br/><br/>
 
