@@ -1,16 +1,20 @@
 <!-- Header -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?
-    type=waving&color=0:0f172a,100:7dd3fc&height=230&section=header&text=Nenavath%20Bhaskar%20Nayak&fontSize=42&fontColor=7dd3fc&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20%26%20Python%20Developer&descSize=18&descAlignY=55&descColor=e5e9f0" alt="Nenavath Bhaskar Nayak header" />
+  <img 
+    src="./assets/header.png" 
+    alt="Bhaskar Nayak Header"
+    width="100%"
+  />
 </p>
 
-<div align="center">
-
- 
-  <img src="https://raw.githubusercontent.com/Nenavath-Bhaskar-Nayak/Nenavath-Bhaskar-Nayak/main/assets/profile.png" width="190" alt="Nenavath Bhaskar Nayak" />
-
-<br/><br/>
+<p align="center">
+  <img
+    src="./assets/profile.png"
+    alt="Bhaskar Nayak"
+    width="160"
+  />
+</p>
 
   <a href="https://github.com/Nenavath-Bhaskar-Nayak">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Python+Developer;Building+practical+AI%2FML+applications;FastAPI+%7C+scikit-learn+%7C+Random+Forest;Loan+Approval+Prediction+System;Student+Pass%2FFail+Prediction+with+ML" alt="Typing SVG" />
