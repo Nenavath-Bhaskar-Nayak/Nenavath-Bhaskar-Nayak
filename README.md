@@ -24,21 +24,36 @@
   <img src="https://img.shields.io/github/followers/Nenavath-Bhaskar-Nayak?style=for-the-badge&color=7dd3fc&labelColor=0f172a&logo=github&logoColor=7dd3fc" alt="Followers" />
 
 <br/><br/>
-<a href="#about">
+<div align="center">
+
+<a href="#who-i-am">
   <img src="https://img.shields.io/badge/ABOUT-7dd3fc?style=for-the-badge&labelColor=0f172a" />
 </a>
 &nbsp;
 
-<a href="#-featured-projects"><img src="https://img.shields.io/badge/PROJECTS-0f172a?style=flat-square&labelColor=0f172a&color=7dd3fc" alt="Projects"/></a>
-<a href="#️-tech-stack"><img src="https://img.shields.io/badge/STACK-0f172a?style=flat-square&labelColor=0f172a&color=7dd3fc" alt="Stack"/></a>
-<a href="#-github-stats"><img src="https://img.shields.io/badge/STATS-0f172a?style=flat-square&labelColor=0f172a&color=7dd3fc" alt="Stats"/></a>
-<a href="#-connect-with-me"><img src="https://img.shields.io/badge/CONNECT-0f172a?style=flat-square&labelColor=0f172a&color=7dd3fc" alt="Connect"/></a>
+<a href="#featured-projects">
+  <img src="https://img.shields.io/badge/PROJECTS-7dd3fc?style=for-the-badge&labelColor=0f172a" />
+</a>
+&nbsp;
+
+<a href="#tech-stack">
+  <img src="https://img.shields.io/badge/STACK-7dd3fc?style=for-the-badge&labelColor=0f172a" />
+</a>
+&nbsp;
+
+<a href="#github-stats">
+  <img src="https://img.shields.io/badge/STATS-7dd3fc?style=for-the-badge&labelColor=0f172a" />
+</a>
+&nbsp;
+
+<a href="#connect-with-me">
+  <img src="https://img.shields.io/badge/CONNECT-7dd3fc?style=for-the-badge&labelColor=0f172a" />
+</a>
 
 </div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:7dd3fc,100:0f172a&height=2" alt="divider" />
 
-🧑‍💻 Who I Am
+## Who I Am
 
 const nenavathBhaskarNayak = {
   title: "Machine Learning & Python Developer",
@@ -73,7 +88,7 @@ const nenavathBhaskarNayak = {
 
 
 
-🚀 Featured Projects
+## Featured Projects
 
 🏦 Loan Approval Prediction
 
@@ -160,7 +175,7 @@ Jupyter Notebook
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:7dd3fc,100:0f172a&height=2" alt="divider" />
 
-🛠️ Tech Stack
+## Tech Stack
 
 Languages
 
