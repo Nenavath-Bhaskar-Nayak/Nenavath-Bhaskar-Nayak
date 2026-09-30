@@ -200,7 +200,7 @@ Dev Tools
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:7dd3fc,100:0f172a&height=2" alt="divider" />
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nenavath-Bhaskar-Nayak&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -218,7 +218,7 @@ Dev Tools
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:7dd3fc,100:0f172a&height=2" alt="divider" />
 
-🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
