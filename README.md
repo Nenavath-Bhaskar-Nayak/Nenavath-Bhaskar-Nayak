@@ -123,7 +123,13 @@ Machine Learning project that predicts student Pass/Fail outcomes using academic
 
 <div align="center">
   <a href="https://github.com/Nenavath-Bhaskar-Nayak/Student_pass_fail_prediction_ML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nenavath-Bhaskar-Nayak&repo=Student_pass_fail_prediction_ML&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=e5e9f0" alt="Student Pass Fail Prediction repository" />
+    <p align="center">
+  <img
+    src="./assets/student.png.png"
+    alt="student pass/fail prediction"
+    width="100%"
+  />
+</p>
   </a>
 </div>
 
