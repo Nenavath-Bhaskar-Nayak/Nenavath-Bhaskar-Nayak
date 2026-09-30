@@ -24,8 +24,11 @@
   <img src="https://img.shields.io/github/followers/Nenavath-Bhaskar-Nayak?style=for-the-badge&color=7dd3fc&labelColor=0f172a&logo=github&logoColor=7dd3fc" alt="Followers" />
 
 <br/><br/>
+<a href="#about">
+  <img src="https://img.shields.io/badge/ABOUT-7dd3fc?style=for-the-badge&labelColor=0f172a" />
+</a>
+&nbsp;
 
-<a href="#-who-i-am"><img src="https://img.shields.io/badge/ABOUT-0f172a?style=flat-square&labelColor=0f172a&color=7dd3fc" alt="About"/></a>
 <a href="#-featured-projects"><img src="https://img.shields.io/badge/PROJECTS-0f172a?style=flat-square&labelColor=0f172a&color=7dd3fc" alt="Projects"/></a>
 <a href="#️-tech-stack"><img src="https://img.shields.io/badge/STACK-0f172a?style=flat-square&labelColor=0f172a&color=7dd3fc" alt="Stack"/></a>
 <a href="#-github-stats"><img src="https://img.shields.io/badge/STATS-0f172a?style=flat-square&labelColor=0f172a&color=7dd3fc" alt="Stats"/></a>
