@@ -185,21 +185,48 @@ Dev Tools
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nenavath-Bhaskar-Nayak&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=e5e9f0" alt="GitHub stats" />
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Nenavath-Bhaskar-Nayak&theme=tokyonight&hide_border=true" width="70%" />
+</p>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nenavath-Bhaskar-Nayak&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=e5e9f0" alt="Top languages" />
 
 <br/><br/>
+---
 
-  <img src="https://streak-stats.demolab.com?user=Nenavath-Bhaskar-Nayak&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=e5e9f0&currStreakNum=e5e9f0&sideNums=e5e9f0&dates=e5e9f0" alt="GitHub streak" />
+## 📊 GitHub Stats
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nenavath-Bhaskar-Nayak&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nenavath-Bhaskar-Nayak&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Nenavath-Bhaskar-Nayak&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
+---
 
-<br/><br/>
+## 🔥 GitHub Streak
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nenavath-Bhaskar-Nayak&bg_color=0f172a&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc&hide_border=true" alt="Contribution activity graph" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Nenavath-Bhaskar-Nayak&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nenavath-Bhaskar-Nayak&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="90%" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nenavath-Bhaskar-Nayak&theme=github-compact&hide_border=true" width="95%" />
+</p>
+
+---
 
 </div>
 
