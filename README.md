@@ -8,13 +8,7 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="./assets/profile.png"
-    alt="Bhaskar Nayak"
-    width="160"
-  />
-</p>
+
 
   <a href="https://github.com/Nenavath-Bhaskar-Nayak">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Python+Developer;Building+practical+AI%2FML+applications;FastAPI+%7C+scikit-learn+%7C+Random+Forest;Loan+Approval+Prediction+System;Student+Pass%2FFail+Prediction+with+ML" alt="Typing SVG" />
@@ -74,13 +68,7 @@ const nenavathBhaskarNayak = {
   ],
 };
 
-<p align="center">
-  <img
-    src="./assets/loan.png.png"
-    alt="Loan Approval Prediction"
-    width="100%"
-  />
-</p>
+
 
 🚀 Featured Projects
 
@@ -90,7 +78,13 @@ End-to-end loan approval prediction system using Machine Learning, Random Forest
 
 <div align="center">
   <a href="https://github.com/Nenavath-Bhaskar-Nayak/Loan_approval_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nenavath-Bhaskar-Nayak&repo=Loan_approval_project&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=e5e9f0" alt="Loan Approval Prediction repository" />
+    <p align="center">
+  <img
+    src="./assets/loan.png.png"
+    alt="Loan Approval Prediction"
+    width="100%"
+  />
+</p>
   </a>
 </div>
 
