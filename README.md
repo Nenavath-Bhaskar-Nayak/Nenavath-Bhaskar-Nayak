@@ -181,19 +181,6 @@ Dev Tools
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:7dd3fc,100:0f172a&height=2" alt="divider" />
 
-📊 GitHub Stats
-
-<div align="center">
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nenavath-Bhaskar-Nayak&theme=tokyonight&hide_border=true" width="70%" />
-</p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nenavath-Bhaskar-Nayak&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=e5e9f0" alt="Top languages" />
-
-<br/><br/>
----
 
 ## 📊 GitHub Stats
 
@@ -209,25 +196,6 @@ Dev Tools
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Nenavath-Bhaskar-Nayak&theme=tokyonight&hide_border=true" width="70%" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nenavath-Bhaskar-Nayak&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="90%" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nenavath-Bhaskar-Nayak&theme=github-compact&hide_border=true" width="95%" />
-</p>
-
----
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:7dd3fc,100:0f172a&height=2" alt="divider" />
